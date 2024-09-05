@@ -15,8 +15,5 @@ pin no. 12 ------> pin 1
 GND--------------> pin 4
 '''
 # layout of general push button 🔳
-'''
-pin1  ____ |----------| _____ pin2
-           |    O     | 
-pin3 _____ |__________| ______ pin4
-'''
+<img width="179" alt="image" src="https://github.com/user-attachments/assets/1ef853b9-3abc-4f5c-8113-58b710d1dffc">
+
