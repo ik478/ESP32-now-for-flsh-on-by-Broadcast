@@ -3,7 +3,9 @@ this code is example for broadcasting with ESP32 Cam module (now) to turn on fla
 you can use different modules of esp32, but according to this code this will turn on the flsh led of esp32 cam module
 # Note 
 its for esp32 cam module 
+
 for this you require minimum of 2 esp32 cam module's 
+
 if you're using different modules of esp32 then chage the pin configuration in the code and add one led light 
 # uploading
 download ESP32_now_Broadcast_for_flash_on.ino zip file, extract it and open in arduino ide
