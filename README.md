@@ -5,7 +5,7 @@ you can use different modules of esp32, but according to this code this will tur
 for this you require minimum of 2 esp32 cam module's 
 if you're using different modules of esp32 then chage the pin configuration in the code and add one led light 
 # uploading
-download ESP32-now-for-flsh-on-by-Broadcast zip file, extract it and open in arduino ide
+download ESP32_now_Broadcast_for_flash_on.ino zip file, extract it and open in arduino ide
 
 upload the same code for both of the modules
 # connections
