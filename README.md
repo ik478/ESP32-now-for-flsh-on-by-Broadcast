@@ -10,7 +10,7 @@ upload the same code for both of the modules
 pin no.4 of esp32 cam is for flsh led no need of connecting 
 give the power to both modules
 
-ESP32        |    Push button 🔳 
+ESP32-------|---Push button 🔳 
 
 pin no. 12 ------> pin 1
 GND--------------> pin 4
