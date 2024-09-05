@@ -7,13 +7,13 @@ if you're using different modules of esp32 then chage the pin configuration in t
 # uploading
 upload the same code for both of the modules
 # connections
-'''
 pin no.4 of esp32 cam is for flsh led no need of connecting 
 give the power to both modules
+
 ESP32        |    Push button 🔳 
+
 pin no. 12 ------> pin 1
 GND--------------> pin 4
-'''
 # layout of general push button 🔳
 <img width="179" alt="image" src="https://github.com/user-attachments/assets/1ef853b9-3abc-4f5c-8113-58b710d1dffc">
 
